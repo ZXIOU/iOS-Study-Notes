@@ -34,8 +34,8 @@ C.h要引用A.h和B.h，B.h引用A.h，那么就会出现重复引用，import�
 <br />
 
 ---
-<i class="icon-envelope-alt"></i> [Email](https://mail.google.com/mail/u/0/#inbox)
-<i class="icon-github"></i>  [Github](https://github.com/ZXIOU)
+<i class="icon-envelope-alt"></i> [Email](https://mail.google.com/mail/u/0/#inbox)  
+<i class="icon-github"></i>  [Github](https://github.com/ZXIOU)  
 <i class="icon-weibo"></i>  [新浪微博](http://weibo.com/3895542020/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1#_loginLayer_1461903468940)
 
 <br />
