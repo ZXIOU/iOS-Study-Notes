@@ -31,6 +31,7 @@ C.h要引用A.h和B.h，B.h引用A.h，那么就会出现重复引用，import�
 
 > 所以，一般来说，@class是放在interface中的，只是为了在interface中引用这个类，把这个类作为一个类型来用的。 在实现这个接口的实现类中，如果需要引用这个类的实体变量或者方法之类的，还是需要import在@class中声明的类进来
 
+---
 <i class="icon-envelope-alt"></i> [Email](https://mail.google.com/mail/u/0/#inbox)
 <i class="icon-github"></i>  [Github](https://github.com/ZXIOU)
 <i class="icon-weibo"></i>  [新浪微博](http://weibo.com/3895542020/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1#_loginLayer_1461903468940)
