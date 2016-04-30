@@ -1,4 +1,4 @@
-﻿# iOS学习笔记之“伪”多继承
+# iOS学习笔记之“伪”多继承
 
 标签： iOS Objective-C
 
@@ -54,8 +54,11 @@ protocol B <A>
 ###3. 组合
 　　其实这种方式就是完全模拟继承，简单讲就是因为OC无法多继承，那么就将想要继承的类的一个实例对象当做自己的一个成员变量，间接地利用其他类的方法。例如有A和B两个类，B无法再继承A，那么可以把A *a当做B中的一个成员变量来实现。
 
-<i class="icon-envelope-alt"></i> [Email](https://mail.google.com/mail/u/0/#inbox)
-<i class="icon-github"></i>  [Github](https://github.com/ZXIOU)
+<br />
+
+---
+<i class="icon-envelope-alt"></i> [Email](https://mail.google.com/mail/u/0/#inbox)  
+<i class="icon-github"></i>  [Github](https://github.com/ZXIOU)  
 <i class="icon-weibo"></i>  [新浪微博](http://weibo.com/3895542020/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1#_loginLayer_1461903468940)
 
 <br />
